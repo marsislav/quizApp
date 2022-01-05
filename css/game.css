@@ -1,0 +1,23 @@
+.choiceContainer {
+    display: flex;
+    margin-bottom:1rem;
+    width: 100%;
+    font-size: 1.8rem;
+    border: 0.1rem solid rgba(84,164,235, 0.5);
+    transition: all 0.3s;
+
+}
+.choiceContainer:hover {
+    background-color: #4994d6;
+    color:#fff;
+
+}
+.choicePrefix{
+    background-color:#56a5eb;
+    padding: 1.5rem 2.5rem;
+    color:#fff;
+}
+.choiceText {
+    padding: 1.5rem;
+    width: 100%;
+}
